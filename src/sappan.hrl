@@ -1,0 +1,2 @@
+-define(SERVICE_NAME, sappan).
+-define(SERVICE_MODULE, sappan_service).
